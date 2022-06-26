@@ -10,6 +10,8 @@ Deklarasi variable environment disimpan di file .env <br/>
 Autentikasi menggunakan JSON Web Token <br/>
 Logger menggunakan Morgan <br/>
 
+Documentation API : https://documenter.getpostman.com/view/2536949/UzBsHQ2Z
+
 #### Installation
 
 `Import wdt_blog.sql ke Database`
